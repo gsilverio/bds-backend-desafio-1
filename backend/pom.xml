@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.crudClients</groupId>
-	<artifactId>clients</artifactId>
+	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>clients</name>
 	<description>Desafio CRUD Clients do bootcamp devsuperior</description>
